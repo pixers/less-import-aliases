@@ -1,6 +1,6 @@
 {
   "name": "less-import-aliases",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "LESS plugin to use aliases in @importing files.",
   "main": "index.js",
   "dependencies": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/miloszsobczak/less-import-aliases"
+    "url": "https://github.com/pixers/less-import-aliases"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
